@@ -9,7 +9,8 @@
 
 ```
 This app sets up Express routing and uses a JSON file for CRUD interactions.
-For the conveninet, and best visual experinece, it has made simple, responsive, and colorful with appropriate css style .
+For the conveninet, and best visual experinece, it has made simple, 
+responsive, and colorful with appropriate css style .
 ```
 
 ## Deployed Heroku Link:
@@ -27,8 +28,8 @@ For the conveninet, and best visual experinece, it has made simple, responsive, 
  ![](./assets/note-taker2.png) 
 ## Links :
 
-* Link for the deployed application [Depl](https://rajesh295-dev.github.io/updated-portfolio/)
-* Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/updated-portfolio)
+* Link for the deployed application [Note-Taker ]()
+* Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/note-Taker)
 
 
 

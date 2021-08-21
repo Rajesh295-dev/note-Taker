@@ -2,7 +2,7 @@
 
 ## Description
 
- This is an simple application called Note Taker that can be used to write and save notes. This application has builted up with an Express.js back end it can save and retrieve note data from a JSON file. This app will run in the browser and feature dynamically with updated [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/), and [Express](https://www.npmjs.com/package/express). 
+ This is an simple application called Note Taker and it can be used to write and save notes. This application has builted up with an Express.js back end it can save and retrieve note data from a JSON file. This app will run in the browser and feature dynamically with updated [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/), and [Express](https://www.npmjs.com/package/express). 
 
 
 ## Features:
@@ -20,8 +20,11 @@ responsive, and colorful with appropriate css style .
  
  
 ## Screenshots:
+  ### Main Page
+ ![](./assets/main-page.png) 
 
-   ![](./assets/note-taker.png) 
+ ### Notes pages
+ ![](./assets/note-taker.png) 
 
  ![](./assets/note-taker2.png) 
 ## Links :

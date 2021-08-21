@@ -14,7 +14,7 @@ responsive, and colorful with appropriate css style .
 ```
 
 ## Deployed Heroku Link:
- ### [Note Taker App](https://rajesh295-dev.github.io/updated-portfolio/)
+ ### [Note Taker App](https://pure-garden-35985.herokuapp.com)
 
 
  
@@ -26,7 +26,7 @@ responsive, and colorful with appropriate css style .
  ![](./assets/note-taker2.png) 
 ## Links :
 
-* Link for the deployed application [Note-Taker ]()
+* Link for the deployed application on heroku [Note-Taker ](https://pure-garden-35985.herokuapp.com)
 * Link for the Github repository [Host by Github](https://github.com/Rajesh295-dev/note-Taker)
 
 

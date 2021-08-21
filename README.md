@@ -21,7 +21,7 @@ responsive, and colorful with appropriate css style .
  
 ## Screenshots:
   ### Main Page
- ![](./assets/main-page.png) 
+ ![](./assets/frontPage.png) 
 
  ### Notes pages
  ![](./assets/note-taker.png) 
